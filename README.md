@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @devine341
+- 👋 Hi, I’m @thedevine0nee
 - 👀 I’m interested in topics in advanced IT services,coding and crypto 
 - 🌱 I’m currently learning scripting in AWS Lambda, Python, SQL, and JavaScript
 - 💞️ I’m looking to collaborate on ...projects to provide support and show what I can do in platform engineering and software development
-- 📫 How to reach me ... Github: devine341  Email: jakaridevine@gmail.com
+- 📫 How to reach me ... Github: thedevine0nee  Email: jakaridevine@gmail.com
 
 <!---
 devine341/devine341 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
